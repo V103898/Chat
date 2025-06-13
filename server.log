@@ -1,0 +1,52 @@
+Server started on port 8080
+Server started on port 8080
+Server started on port 8080
+Server error: Address already in use: bind
+[Thu Jun 12 02:12:16 MSK 2025] Server: null left the chat
+[Thu Jun 12 02:24:10 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:24:22 MSK 2025] CTAC: hello
+[Thu Jun 12 02:24:31 MSK 2025] CTAC: how are you?
+[Thu Jun 12 02:25:44 MSK 2025] Server: CTAC left the chat
+[Thu Jun 12 02:26:21 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:27:29 MSK 2025] Server: CTAC left the chat
+[Thu Jun 12 02:28:06 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:29:30 MSK 2025] Server: CTAC left the chat
+[Thu Jun 12 02:29:56 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:30:01 MSK 2025] CTAC: привет
+[Thu Jun 12 02:30:06 MSK 2025] CTAC: Как дела
+[Thu Jun 12 02:30:18 MSK 2025] CTAC: Как погода?
+[Thu Jun 12 02:30:43 MSK 2025] CTAC: Чем занят?
+[Thu Jun 12 02:30:54 MSK 2025] CTAC: EXIT
+[Thu Jun 12 02:31:06 MSK 2025] Server: CTAC left the chat
+[Thu Jun 12 02:33:58 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:34:02 MSK 2025] CTAC: привет
+[Thu Jun 12 02:34:08 MSK 2025] CTAC: Как делы
+[Thu Jun 12 02:34:16 MSK 2025] CTAC: Че почем
+[Thu Jun 12 02:34:21 MSK 2025] CTAC: Че зачем
+[Thu Jun 12 02:34:29 MSK 2025] CTAC: что где когда
+[Thu Jun 12 02:34:32 MSK 2025] CTAC: exit
+[Thu Jun 12 02:34:37 MSK 2025] Server: CTAC left the chat
+[Thu Jun 12 02:35:41 MSK 2025] Server: CTAC joined the chat
+[Thu Jun 12 02:35:46 MSK 2025] CTAC: Priwet
+[Thu Jun 12 02:35:52 MSK 2025] CTAC: Kak Dela?
+[Thu Jun 12 02:36:03 MSK 2025] CTAC: Kak OHO?
+[Thu Jun 12 02:36:08 MSK 2025] Server: CTAC left the chat
+[Fri Jun 13 23:07:01 MSK 2025] Server: CTAC joined the chat
+[Fri Jun 13 23:07:06 MSK 2025] CTAC: priwet
+[Fri Jun 13 23:07:12 MSK 2025] CTAC: KaK Dela
+[Fri Jun 13 23:07:22 MSK 2025] Server: CTAC left the chat
+[Fri Jun 13 23:08:39 MSK 2025] Server: BOBA joined the chat
+[Fri Jun 13 23:08:46 MSK 2025] BOBA: привет
+[Fri Jun 13 23:09:05 MSK 2025] BOBA: как оно??
+[Fri Jun 13 23:09:10 MSK 2025] Server: BOBA left the chat
+[Fri Jun 13 23:10:01 MSK 2025] Server: ApTyp joined the chat
+[Fri Jun 13 23:10:12 MSK 2025] Server: ApTyp left the chat
+[Fri Jun 13 23:11:04 MSK 2025] Server: CTAC joined the chat
+[Fri Jun 13 23:11:59 MSK 2025] CTAC: /xit
+[Fri Jun 13 23:12:06 MSK 2025] Server: CTAC left the chat
+[Fri Jun 13 23:12:42 MSK 2025] Server: POMA joined the chat
+[Fri Jun 13 23:12:55 MSK 2025] POMA: привет
+[Fri Jun 13 23:13:02 MSK 2025] POMA: Как ваше ничего?
+[Fri Jun 13 23:13:11 MSK 2025] POMA: Как погода сейчас??
+[Fri Jun 13 23:13:25 MSK 2025] POMA: Что нового?
+[Fri Jun 13 23:13:34 MSK 2025] Server: POMA left the chat
